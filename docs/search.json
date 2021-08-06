@@ -13,8 +13,8 @@
       "title": "CV",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-08-06T11:03:46-07:00"
+      "contents": "\n\n\nggplot(data = diamonds, aes(x = carat, y = price)) + geom_point(aes(color = price))\n\n\n\n\n\n\n\n",
+      "last_modified": "2021-08-06T11:09:16-07:00"
     },
     {
       "path": "index.html",
