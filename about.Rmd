@@ -1,10 +1,12 @@
 ---
-title: "About this site"
+title: "About me"
 description: |
-  Some additional details about the website
+ 
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+I am a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science and Management at UC Santa Barbara. I am an Army veteran, serving from 2010 to 2018. It was during my time in the Army that I began to develop and deep interest in the Environment and environmental issues. I went back to school and received my bachelor’s degree in Geosciences from the University of Wisconsin – Parkside in 2020. During my undergraduate education, I was fortunate to be able to participate in multiple research projects in the areas of hydrology and hydrogeology. As a graduate student, I am gaining the tools needed to help solve the environmental problems of the present and future. I look forward to bringing these tools to new projects and challenges. 
 
