@@ -9,7 +9,3 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
-```{r}
-ggplot(data = diamonds, aes(x = carat, y = price)) + geom_point(aes(color = price))
-```
-

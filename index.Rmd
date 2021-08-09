@@ -4,9 +4,9 @@ image: "myself.jpg"
 links:
 
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/danielkerstan/danielkerstan.github.io"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:danielkerstan@bren.ucsb.edu"
 output:
   postcards::jolla
 site: distill::distill_website
