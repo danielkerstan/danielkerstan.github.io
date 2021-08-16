@@ -1,36 +1,19 @@
 [
   {
-    "path": "posts/2021-08-10-a-function-i-learned/",
-    "title": "A function I learned",
-    "description": "A short description of the post.",
+    "path": "posts/2021-08-16-what-i-learned/",
+    "title": "What I learned",
+    "description": "What I learned today",
     "author": [
       {
         "name": "Daniel Kerstan",
         "url": {}
       }
     ],
-    "date": "2021-08-10",
+    "date": "2021-08-16",
     "categories": [],
-    "contents": "\n\n\n\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
-    "preview": "posts/2021-08-10-a-function-i-learned/images/lake.jpg",
-    "last_modified": "2021-08-10T10:46:51-07:00",
-    "input_file": {}
-  },
-  {
-    "path": "posts/2021-08-10-hello/",
-    "title": "My first blog post",
-    "description": "Something really important",
-    "author": [
-      {
-        "name": "Daniel Kerstan",
-        "url": {}
-      }
-    ],
-    "date": "2021-08-10",
-    "categories": [],
-    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "contents": "\nToday in EDS 221: Scientific programming essentials…\nwe discussed what it means for data to be “tidy”\nI learned that in order for data to be considered tidy, it must satisfy three criteria… 1) Each variable is a column 2) Each observation is a row 3) Each cell contains a single value\nI also gained some data wrangling tools today…\nfilter()\nselect()\nmutate()\ncase_when()\ngroup_by() %>% summarize()\nI have found that practice and repitition is the best way to really learn to use these tools effectively\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
     "preview": {},
-    "last_modified": "2021-08-10T10:23:15-07:00",
+    "last_modified": "2021-08-16T16:54:32-07:00",
     "input_file": {}
   }
 ]
