@@ -4,29 +4,29 @@
       "path": "about.html",
       "title": "About me",
       "author": [],
-      "contents": "\nI am a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science and Management at UC Santa Barbara. I am an Army veteran. During my time in the Army, from 2010 to 2018, I began to develop an interest in the environment and environmental issues. My experiences overseas taught me the importance of these issues and their connection to politics, society, security, and overall stability. After the Army, I went back to school and received my bachelor’s degree in Geosciences from the University of Wisconsin – Parkside in 2020. During my undergraduate education, I was able to participate in multiple research projects in the areas of hydrology and hydrogeology. As a graduate student, I am gaining the tools needed to help solve the environmental problems of the present and future. I look forward to bringing these tools to new projects and challenges.\n\n\n\n",
-      "last_modified": "2021-08-17T12:01:19-07:00"
+      "contents": "\nI am a graduate student in the Master of Environmental Data Science program at the Bren School of Environmental Science and Management at UC Santa Barbara. I am an Army veteran. During my time in the Army, from 2010 to 2018, I began to develop an interest in the environment and environmental issues. My experiences overseas taught me the importance of these issues and their connection to politics, society, security, and overall stability. After the Army, I went back to school and received my bachelor’s degree in Geosciences from the University of Wisconsin – Parkside in 2020. During my undergraduate education, I was able to participate in multiple research projects in the areas of hydrology and hydrogeology. As a graduate student, I am learning to apply new tools and methods to help solve the environmental problems of the present and future. I look forward to applying this knowledge to new projects and challenges.\n\n\n\n",
+      "last_modified": "2021-08-31T14:59:41-07:00"
     },
     {
       "path": "blog.html",
       "title": "My blog",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-17T12:01:19-07:00"
+      "last_modified": "2021-08-31T14:59:41-07:00"
     },
     {
       "path": "CV.html",
       "title": "CV",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-08-17T12:01:21-07:00"
+      "last_modified": "2021-08-31T14:59:43-07:00"
     },
     {
       "path": "index.html",
       "title": "Daniel Kerstan",
       "author": [],
       "contents": "\n\n          \n          \n          Daniel Kerstan\n          \n          \n          Home\n          About\n          CV\n          Blog\n          ☰\n          \n          \n      \n        \n          \n            Daniel Kerstan\n          \n          \n            \n              \n            \n            \n              \n            \n          \n\n          \n            \n              \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2021-08-17T12:01:21-07:00"
+      "last_modified": "2021-08-31T14:59:43-07:00"
     }
   ],
   "collections": ["posts/posts.json"]
