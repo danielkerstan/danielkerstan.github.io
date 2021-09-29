@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "path": "posts/2021-09-29-test/",
+    "title": "test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Daniel Kerstan",
+        "url": {}
+      }
+    ],
+    "date": "2021-09-29",
+    "categories": [],
+    "contents": "\nThis is a test blog post.\n\n\n\n",
+    "preview": "posts/2021-09-29-test/myself.jpg",
+    "last_modified": "2021-09-29T13:51:29-07:00",
+    "input_file": "test.knit.md"
+  }
+]
